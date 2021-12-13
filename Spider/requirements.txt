@@ -1,7 +1,7 @@
 beautifulsoup4==4.7.1
 bs4==0.0.1
 cssselect==1.0.3
-lxml==4.3.4
+lxml==4.6.5
 mysqlclient==1.4.2.post1
 PyMySQL==0.9.3
 pyquery==1.4.0
